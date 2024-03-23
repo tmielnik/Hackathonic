@@ -63,7 +63,7 @@ Rodar o seguinte comando no terminal dentro da pasta /smartcontracts:
 ```bash
 ./deploy-on-testnet.sh
 ```
- - Caso precisar de permissão para rodar o script .sh no terminal do linux, rodar o seguinte comando no terminal:
+Caso precisar de permissão para rodar o script .sh no terminal do linux, rodar o seguinte comando no terminal:
 chmod +x ./deploy-on-testnet.sh
 
 No frontend:
